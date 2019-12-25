@@ -15,7 +15,7 @@ hello
 
 -----------------------
 GIT REBASE Testing
+<<<<<<< HEAD
 
 -------------------------
-Testing for conflicts
---lololoololol
+Testing for conflicts -- final result
