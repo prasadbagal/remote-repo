@@ -15,3 +15,6 @@ hello
 
 -----------------------
 GIT REBASE Testing
+-----
+
+Testing conlicts GUI Edite-lolol
