@@ -15,3 +15,7 @@ hello
 
 -----------------------
 GIT REBASE Testing
+
+-------------------------
+Testing for conflicts
+--lololoololol
